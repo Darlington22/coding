@@ -8691,6 +8691,10 @@ table.dataTable thead .sorting:after {
 
 
 /****************User Profile  *********************/
+#admin-page{
+    padding-top: 0px;
+}
+
 .user-row {
     margin-bottom: 14px;
 }

@@ -11,9 +11,10 @@ const mix = require('laravel-mix');
  |
  */
 
-mix.js([
-        'resources/js/bootstrap.js',
+mix.scripts([
         'resources/js/jquery.js',
+        'resources/js/bootstrap.js',
+        'resources/js/bootstrap.min.js',
         'resources/js/metisMenu.js',
         'resources/js/sb-admin-2.js',
         'resources/js/scripts.js'
